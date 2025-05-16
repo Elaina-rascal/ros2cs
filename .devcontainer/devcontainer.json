@@ -18,7 +18,8 @@
                 "njpwerner.autodocstring",
                 "vadimcn.vscode-lldb",
                 "llvm-vs-code-extensions.lldb-dap",
-                "github.vscode-github-actions"
+                "github.vscode-github-actions",
+                "ms-dotnettools.csdevkit"
             ]
         },
         "jetbrains": {

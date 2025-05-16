@@ -4,7 +4,7 @@ FROM elainasuki/ros:ros2-humble-full-v3
 ARG USERNAME=Elaina
 WORKDIR /home/$USERNAME
 RUN apt-get update && apt-get install -y dotnet-sdk-8.0 aspnetcore-runtime-8.0 zlib1g
-
+RUN dotnet new install Rcl.NET.Templates
 USER root
 #安装导航依赖
 

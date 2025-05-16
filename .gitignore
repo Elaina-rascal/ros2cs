@@ -1,0 +1,73 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.pidb
+*.svd
+
+# Visual Studio cache files
+.vs/
+
+# Auto-generated files
+*.generated.cs
+
+# NuGet package files
+*.nupkg
+*.snupkg
+packages/
+
+# Rider IDE files
+.idea/
+
+# Logs
+*.log
+
+# DotCover
+*.dotCover
+
+# Coverage results
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Visual Studio Code settings
+
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Rider
+.idea/
+
+# Azure Pipelines
+
+# Publish output
+publish/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# npm packages (if you also have front-end code)
+node_modules/
+
+# Visual Studio publish folder
+Publish/
+
+# Entity Framework Core
+*.efmodel
+
+# Others
+*.dbmdl
+log/
